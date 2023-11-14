@@ -1,1 +1,1 @@
-# Drone-Tello-_SnapCapture-and-GestureControl
+# DroneGestureSnap, TelloSurveillanceControl, SkyEyeGestureCapture
