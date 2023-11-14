@@ -29,9 +29,6 @@ The Tello drone is a small and lightweight consumer drone designed for both begi
    - Tello can be connected to a mobile device using Wi-Fi.
    - It has a range of up to 100 meters, providing flexibility for different flying scenarios.
 
-8. **Educational Use:**
-   - Tello is popular in educational settings due to its programmability and ease of use for teaching basic programming and drone-related concepts.
-
-9. **Integration with DJI Technology:**
+8. **Integration with DJI Technology:**
    - Despite its affordability, Tello benefits from DJI's expertise in drone technology, providing a reliable and enjoyable flying experience.
 
